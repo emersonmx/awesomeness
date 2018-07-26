@@ -1,4 +1,4 @@
-# awesome
+# awesomeness
 
 Este é um repositório com links de coisas que eu acho legal :)
 
