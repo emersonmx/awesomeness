@@ -93,3 +93,7 @@ Este é um repositório com links de coisas que eu acho legal :)
 [Moment](https://momentjs.com/)<br>
 [Lity](https://sorgalla.com/lity/)<br>
 [PostCSS](https://postcss.org/)
+
+## CSS
+
+[Tailwind CSS](https://tailwindcss.com/)
