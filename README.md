@@ -91,5 +91,5 @@ Este é um repositório com links de coisas que eu acho legal :)
 [Lodash](https://lodash.com/)<br>
 [Please Wait](http://pathgather.github.io/please-wait/)<br>
 [Moment](https://momentjs.com/)<br>
-[Lity](https://sorgalla.com/lity/)
+[Lity](https://sorgalla.com/lity/)<br>
 [PostCSS](https://postcss.org/)
