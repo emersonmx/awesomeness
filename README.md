@@ -81,7 +81,7 @@ Este é um repositório com links de coisas que eu acho legal :)
 [Slick Carousel](http://kenwheeler.github.io/slick/)<br>
 [Select2](https://select2.org/)<br>
 [Google Charts](https://developers.google.com/chart/)<br>
-[jQuery Mask Input](jQuery Mask Input)<br>
+[jQuery Mask Input](https://igorescobar.github.io/jQuery-Mask-Plugin/)<br>
 [Noty](https://ned.im/noty/)<br>
 [WebFontLoader](https://github.com/typekit/webfontloader)<br>
 [Popper](https://popper.js.org/)<br>
