@@ -44,6 +44,8 @@ Este é um repositório com links de coisas que eu acho legal :)
 [C++ Reference](http://en.cppreference.com/w/cpp)<br>
 [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)<br>
 [Awesome modern C++](https://github.com/rigtorp/awesome-modern-cpp)<br>
+[Beautiful Native Libraries](http://lucumr.pocoo.org/2013/8/18/beautiful-native-libraries/)<br>
+[C++ Awesome](http://fffaraz.github.io/awesome-cpp)
 [Bear](https://github.com/rizsotto/Bear)<br>
 [Tratamento de erros](https://hackernoon.com/error-handling-in-c-or-why-you-should-use-eithers-in-favor-of-exceptions-and-error-codes-f0640912eb45)<br>
 [Conan](https://conan.io/)<br>
