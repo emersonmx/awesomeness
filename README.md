@@ -61,7 +61,8 @@ Este é um repositório com links de coisas que eu acho legal :)
 [json](https://github.com/nlohmann/json)<br>
 [ChaiScript](https://github.com/ChaiScript/ChaiScript)<br>
 [spdlog](https://github.com/gabime/spdlog) ([CMake Find](https://github.com/gnzlbg/hm3/blob/master/cmake/Findspdlog.cmake))<br>
-[Tweeny](https://mobius3.github.io/tweeny/)
+[Tweeny](https://mobius3.github.io/tweeny/)<br>
+[cget](https://github.com/pfultz2/cget)
 
 ## Python
 
