@@ -5,7 +5,7 @@ Este é um repositório com links de coisas que eu acho legal :)
 ## Diversos
 
 [Hack](https://github.com/source-foundry/Hack)<br>
-[FireCode](https://github.com/tonsky/FiraCode)<br>
+[FiraCode](https://github.com/tonsky/FiraCode)<br>
 [Minio (Local S3)](https://github.com/minio/minio)<br>
 [Neovim + PHP](http://kushellig.de/neovim-php-ide/)<br>
 [MOIP](https://moip.com.br/)<br>
