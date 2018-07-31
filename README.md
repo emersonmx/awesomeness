@@ -34,6 +34,7 @@ Este é um repositório com links de coisas que eu acho legal :)
 [Laravel Repositories](https://github.com/bosnadev/repository)<br>
 [Laravel Activity Log](https://github.com/spatie/laravel-activitylog)<br>
 [Laravel Translatable](https://github.com/spatie/laravel-translatable)<br>
+[Plastic](https://github.com/sleimanx2/plastic)<br>
 [Async](https://github.com/spatie/async)<br>
 [ElasticSearch](https://github.com/babenkoivan/scout-elasticsearch-driver)<br>
 [PHPDocker](https://phpdocker.io)<br>
