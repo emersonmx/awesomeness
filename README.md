@@ -28,6 +28,7 @@ Este é um repositório com links de coisas que eu acho legal :)
 [PHPUnit](https://phpunit.de/)<br>
 [Mockery](https://github.com/mockery/mockery)<br>
 [Faker](https://github.com/fzaninotto/Faker)<br>
+[Fractal](https://fractal.thephpleague.com/)<br>
 [Laravel Test Tools](https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl?hl=en)<br>
 [Laravel Auditing](https://github.com/owen-it/laravel-auditing)<br>
 [Laravel Repositories](https://github.com/bosnadev/repository)<br>
