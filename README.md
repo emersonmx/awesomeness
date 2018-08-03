@@ -41,6 +41,10 @@ Este é um repositório com links de coisas que eu acho legal :)
 [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)<br>
 [PHP CS Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/)
 
+## C
+
+[Jansson](http://www.digip.org/jansson/)<br>
+
 ## C++
 
 [C++ Reference](http://en.cppreference.com/w/cpp)<br>
