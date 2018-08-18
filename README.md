@@ -41,6 +41,10 @@ Este é um repositório com links de coisas que eu acho legal :)
 [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)<br>
 [PHP CS Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/)
 
+## CMake
+
+[CGold: The Hitchhiker’s Guide to the CMake](https://cgold.readthedocs.io/en/latest/)<br>
+
 ## C
 
 [Jansson](http://www.digip.org/jansson/)<br>
