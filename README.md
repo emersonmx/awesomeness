@@ -9,7 +9,8 @@ Este é um repositório com links de coisas que eu acho legal :)
 [Minio (Local S3)](https://github.com/minio/minio)<br>
 [Neovim + PHP](http://kushellig.de/neovim-php-ide/)<br>
 [MOIP](https://moip.com.br/)<br>
-[Get Content Tools](http://getcontenttools.com/)
+[Get Content Tools](http://getcontenttools.com/)<br>
+[Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
 
 ## PHP
 
