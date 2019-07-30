@@ -90,6 +90,7 @@ Este é um repositório com links de coisas que eu acho legal :)
 [Click](http://click.pocoo.org/)<br>
 [Fabric](http://www.fabfile.org/)<br>
 [Scrapy](https://scrapy.org/)<br>
+[Flask](https://flask.palletsprojects.com)<br>
 [SpeechRecognition](https://pypi.python.org/pypi/SpeechRecognition/)<br>
 [mock](https://docs.python.org/3/library/unittest.mock.html)
 
