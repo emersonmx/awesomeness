@@ -16,6 +16,7 @@ Este é um repositório com links de coisas que eu acho legal :)
 ## PHP
 
 [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)<br>
+[Clean Code for PHP](https://github.com/jupeter/clean-code-php)<br>
 [Symfony](https://symfony.com/)<br>
 [Requests](http://requests.ryanmccue.info/)<br>
 [Laravel](https://laravel.com/)<br>
