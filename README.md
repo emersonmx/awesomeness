@@ -56,6 +56,7 @@ Este é um repositório com links de coisas que eu acho legal :)
 
 [Jansson](http://www.digip.org/jansson/)<br>
 [C Style](https://github.com/mcinglis/c-style)<br>
+[Namespaces in C](https://stackoverflow.com/a/28535585)<br>
 
 ## C++
 
