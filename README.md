@@ -17,14 +17,32 @@ Este é um repositório com links de coisas que eu acho legal :)
 
 ## Python
 
-[Virtualenv](https://virtualenv.pypa.io/en/stable/)<br>
-[Virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)<br>
-[Pytest](https://docs.pytest.org/en/latest/)<br>
+[Poetry](https://python-poetry.org/)<br>
+[pyenv](https://github.com/pyenv/pyenv)<br>
+[virtualenv](https://virtualenv.pypa.io/en/stable/)<br>
+[virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)<br>
+[pytest](https://docs.pytest.org/en/latest/)<br>
 [Click](http://click.pocoo.org/)<br>
 [Fabric](http://www.fabfile.org/)<br>
+[Invoke](http://www.pyinvoke.org/)<br>
 [Scrapy](https://scrapy.org/)<br>
+[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)<br>
 [Flask](https://flask.palletsprojects.com)<br>
+[FastAPI](https://fastapi.tiangolo.com/)<br>
+[pydantic](https://pydantic-docs.helpmanual.io/)<br>
+[marshmallow](https://marshmallow.readthedocs.io/en/stable/)<br>
+[tenacity](https://github.com/jd/tenacity)<br>
+[AIOHTTP](https://docs.aiohttp.org/en/stable/)<br>
+[SQLAlchemy](https://www.sqlalchemy.org/)<br>
+[Alembic](https://alembic.sqlalchemy.org/en/latest/)<br>
+[databases](https://github.com/encode/databases)<br>
+[motor](https://motor.readthedocs.io/en/stable/)<br>
+[pymongo](https://pymongo.readthedocs.io/en/stable/)<br>
+[Uvicorn](https://www.uvicorn.org/)<br>
+[Gunicorn](https://gunicorn.org/)<br>
 [SpeechRecognition](https://pypi.python.org/pypi/SpeechRecognition/)<br>
+[functools](https://docs.python.org/3/library/functools.html)<br>
+[itertools](https://docs.python.org/3/library/itertools.html)<br>
 [mock](https://docs.python.org/3/library/unittest.mock.html)
 
 ## Javascript
@@ -51,6 +69,13 @@ Este é um repositório com links de coisas que eu acho legal :)
 ## CSS
 
 [Tailwind CSS](https://tailwindcss.com/)
+
+## Rust
+
+[Bevy](https://bevyengine.org/)<br>
+[SDL2](https://github.com/Rust-SDL2/rust-sdl2)<br>
+[Godot](https://github.com/godot-rust/godot-rust)<br>
+[macroquad](https://github.com/not-fl3/macroquad)<br>
 
 ## C
 
