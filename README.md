@@ -147,3 +147,7 @@ Este é um repositório com links de coisas que eu acho legal :)
 [PHPDocker](https://phpdocker.io)<br>
 [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)<br>
 [PHP CS Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/)
+
+## Docker
+
+[Build Docker images for production](https://christlieb.eu/blog/build-docker-images-for-production)<br>
